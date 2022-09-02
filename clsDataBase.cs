@@ -24,6 +24,7 @@ namespace TGG.Representacoes
 
         public DataTable ExecutarSQL(string query)
         {
+            //Executar SQL
             da = new SqlDataAdapter(query, ligacao);
 
             DataTable dt = new DataTable();
