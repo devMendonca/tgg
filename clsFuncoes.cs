@@ -8,6 +8,7 @@ namespace TGG.Representacoes
 {
     public class clsFuncoes
     {
+        //FUNCOES
         public static string RemoverEspeciais(string str)
         {
             /** Troca os caracteres acentuados por não acentuados **/
