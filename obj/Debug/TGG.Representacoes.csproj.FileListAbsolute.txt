@@ -1,0 +1,485 @@
+C:\Users\pc\OneDrive\Área de Trabalho\tgg\TGG.Representacoes\bin\Debug\TGG.Representacoes.exe.config
+C:\Users\pc\OneDrive\Área de Trabalho\tgg\TGG.Representacoes\bin\Debug\TGG.Representacoes.exe
+C:\Users\pc\OneDrive\Área de Trabalho\tgg\TGG.Representacoes\bin\Debug\TGG.Representacoes.pdb
+C:\Users\pc\OneDrive\Área de Trabalho\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Área de Trabalho\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.Properties.Resources.resources
+C:\Users\pc\OneDrive\Área de Trabalho\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Área de Trabalho\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Área de Trabalho\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.exe
+C:\Users\pc\OneDrive\Área de Trabalho\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.pdb
+C:\Users\pc\OneDrive\Área de Trabalho\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.FrmPedidos.resources
+C:\Users\pc\OneDrive\Área de Trabalho\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.FrmPrincipal.resources
+C:\Users\pc\OneDrive\Área de Trabalho\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.ResolveComReference.cache
+C:\Users\pc\OneDrive\Área de Trabalho\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.EnviarPedidoEmail.resources
+C:\Users\pc\OneDrive\Área de Trabalho\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.FrmRelatorioPedidos.resources
+C:\Users\Gerson Mendonça\Documents\tgg\TGG.Representacoes\bin\Debug\TGG.Representacoes.exe.config
+C:\Users\Gerson Mendonça\Documents\tgg\TGG.Representacoes\bin\Debug\TGG.Representacoes.exe
+C:\Users\Gerson Mendonça\Documents\tgg\TGG.Representacoes\bin\Debug\TGG.Representacoes.pdb
+C:\Users\Gerson Mendonça\Documents\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.AssemblyReference.cache
+C:\Users\Gerson Mendonça\Documents\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gerson Mendonça\Documents\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.ResolveComReference.cache
+C:\Users\Gerson Mendonça\Documents\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.EnviarPedidoEmail.resources
+C:\Users\Gerson Mendonça\Documents\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.FrmPedidos.resources
+C:\Users\Gerson Mendonça\Documents\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.FrmPrincipal.resources
+C:\Users\Gerson Mendonça\Documents\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.FrmRelatorioPedidos.resources
+C:\Users\Gerson Mendonça\Documents\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.Properties.Resources.resources
+C:\Users\Gerson Mendonça\Documents\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.GenerateResource.cache
+C:\Users\Gerson Mendonça\Documents\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Mendonça\Documents\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.exe
+C:\Users\Gerson Mendonça\Documents\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.pdb
+C:\Users\DevDavid\Documents\Repositorio\tgg\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.AssemblyReference.cache
+C:\Users\DevDavid\Documents\Repositorio\tgg\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\DevDavid\Documents\Repositorio\tgg\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.ResolveComReference.cache
+C:\Users\DevDavid\Documents\Repositorio\tgg\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.exe
+C:\Users\DevDavid\Documents\Repositorio\tgg\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.pdb
+C:\Users\DevDavid\Documents\Repositorio\tgg\tgg\TGG.Representacoes\bin\Debug\TGG.Representacoes.exe.config
+C:\Users\DevDavid\Documents\Repositorio\tgg\tgg\TGG.Representacoes\bin\Debug\TGG.Representacoes.exe
+C:\Users\DevDavid\Documents\Repositorio\tgg\tgg\TGG.Representacoes\bin\Debug\TGG.Representacoes.pdb
+C:\Users\DevDavid\Documents\Repositorio\tgg\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.EnviarPedidoEmail.resources
+C:\Users\DevDavid\Documents\Repositorio\tgg\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.FrmPedidos.resources
+C:\Users\DevDavid\Documents\Repositorio\tgg\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.FrmPrincipal.resources
+C:\Users\DevDavid\Documents\Repositorio\tgg\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.FrmRelatorioPedidos.resources
+C:\Users\DevDavid\Documents\Repositorio\tgg\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.Properties.Resources.resources
+C:\Users\DevDavid\Documents\Repositorio\tgg\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.GenerateResource.cache
+C:\Users\DevDavid\Documents\Repositorio\tgg\tgg\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.CoreCompileInputs.cache
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\TGG.Representacoes.exe.config
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\TGG.Representacoes.exe
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\TGG.Representacoes.pdb
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\itext.barcodes.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\itext.commons.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\itext.forms.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\itext.io.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\itext.kernel.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\itext.layout.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\itext.pdfa.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\itext.sign.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\itext.styledxmlparser.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\itext.svg.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\System.Buffers.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\System.Memory.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\System.ValueTuple.dll
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\itext.barcodes.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\itext.commons.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\itext.forms.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\itext.io.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\itext.kernel.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\itext.layout.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\itext.pdfa.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\itext.sign.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\itext.styledxmlparser.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\itext.svg.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\System.Buffers.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\System.Memory.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\bin\Debug\System.ValueTuple.xml
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.csprojAssemblyReference.cache
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.ResolveComReference.cache
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.EnviarPedidoEmail.resources
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.FrmPedidos.resources
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.FrmPrincipal.resources
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.FrmRelatorioPedidos.resources
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.Properties.Resources.resources
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.GenerateResource.cache
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.CoreCompileInputs.cache
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.CopyComplete
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.exe
+C:\Users\davmend\Downloads\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.pdb
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\TGG.Representacoes.exe.config
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\TGG.Representacoes.exe
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\TGG.Representacoes.pdb
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\itext.barcodes.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\itext.commons.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\itext.forms.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\itext.io.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\itext.kernel.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\itext.layout.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\itext.pdfa.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\itext.sign.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\itext.styledxmlparser.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\itext.svg.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\System.Buffers.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\System.Memory.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\System.ValueTuple.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\itext.barcodes.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\itext.commons.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\itext.forms.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\itext.io.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\itext.kernel.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\itext.layout.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\itext.pdfa.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\itext.sign.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\itext.styledxmlparser.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\itext.svg.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\System.Buffers.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\System.Memory.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\System.ValueTuple.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.AssemblyReference.cache
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.ResolveComReference.cache
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.EnviarPedidoEmail.resources
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.FrmPedidos.resources
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.FrmPrincipal.resources
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.FrmRelatorioPedidos.resources
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.Properties.Resources.resources
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.GenerateResource.cache
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.CoreCompileInputs.cache
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.CopyComplete
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.exe
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.pdb
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\x86\pdfium.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\PdfiumViewer.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\PdfiumViewer.xml
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.frmVerPedido.resources
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.frmProdutos.resources
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.frmAlterarFator.resources
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\EnvDTE.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\stdole.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DevDavid\Documents\Repositorio\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.frmReportPedidos.resources
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.AssemblyReference.cache
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.ResolveComReference.cache
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.EnviarPedidoEmail.resources
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.frmAlterarFator.resources
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.FrmPedidos.resources
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.FrmPrincipal.resources
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.frmProdutos.resources
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.FrmRelatorioPedidos.resources
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.frmVerPedido.resources
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.Properties.Resources.resources
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.GenerateResource.cache
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.CoreCompileInputs.cache
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.exe
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.pdb
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\x86\pdfium.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\TGG.Representacoes.exe.config
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\TGG.Representacoes.exe
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\TGG.Representacoes.pdb
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\itext.barcodes.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\itext.commons.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\itext.forms.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\itext.io.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\itext.kernel.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\itext.layout.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\itext.pdfa.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\itext.sign.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\itext.svg.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\PdfiumViewer.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\System.Buffers.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\System.Memory.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\System.ValueTuple.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\EnvDTE.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\stdole.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\itext.barcodes.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\itext.commons.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\itext.forms.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\itext.io.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\itext.kernel.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\itext.layout.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\itext.pdfa.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\itext.sign.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\itext.svg.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\PdfiumViewer.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\System.Buffers.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\System.Memory.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\System.ValueTuple.xml
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\Gerson Mendonça\Documents\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.CopyComplete
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\x86\pdfium.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\TGG.Representacoes.exe.config
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\TGG.Representacoes.exe
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\TGG.Representacoes.pdb
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\itext.barcodes.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\itext.commons.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\itext.forms.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\itext.io.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\itext.kernel.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\itext.layout.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\itext.pdfa.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\itext.sign.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\itext.styledxmlparser.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\itext.svg.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\PdfiumViewer.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\System.Buffers.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\System.Memory.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\System.ValueTuple.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\EnvDTE.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\stdole.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\itext.barcodes.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\itext.commons.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\itext.forms.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\itext.io.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\itext.kernel.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\itext.layout.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\itext.pdfa.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\itext.sign.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\itext.styledxmlparser.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\itext.svg.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\PdfiumViewer.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\System.Buffers.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\System.Memory.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\System.ValueTuple.xml
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.ResolveComReference.cache
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.EnviarPedidoEmail.resources
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.frmAlterarFator.resources
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.FrmPedidos.resources
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.FrmPrincipal.resources
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.frmProdutos.resources
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.FrmRelatorioPedidos.resources
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.frmVerPedido.resources
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.Properties.Resources.resources
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.csproj.CopyComplete
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.exe
+C:\Users\david\OneDrive\Documentos\tgg_Novo\tgg_Novo\TGG.Representacoes\obj\Debug\TGG.Representacoes.pdb
